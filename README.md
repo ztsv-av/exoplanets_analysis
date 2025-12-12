@@ -1,7 +1,7 @@
 # Exoplanets Data Analysis and Visualization
 
 <p align="center">
-  <img src="plots/planets_orbiting_star_animation.gif" width="600">
+  <img src="plots/planets_orbiting_star_animation.gif" width="800">
 </p>
 
 This repository contains a data analysis and visualization project developed as part of the **Data Visualization** course in the **Master of Science in Data Science** program at the **University of Luxembourg**.
@@ -32,7 +32,7 @@ The project includes multiple visual outputs:
 - Identification and visualization of habitable zones
 
 <p align="center">
-  <img src="plots/habitable_zone.png" width="600">
+  <img src="plots/habitable_zone.png" width="800">
 </p>
 
 ## Animation Notes
